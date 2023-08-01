@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aashutosh2102
-- 👀 I’m interested in Data Models and feature  engineering
-- 🌱 I’m currently learning Data Analysis
+- 👀 Interested in Data Models and feature  engineering stuff
+- 🌱 Currently in my development phase for Data Analysis techniques 
 - 💞️ I’m looking to collaborate on Python and it's application
-- 📫 How to reach me gmai : aashutoshjha21022002@gmail.com
+- 📫 How to reach me gmail : aashutoshjha21022002@gmail.com
 
 <!---
 aashutosh2102/aashutosh2102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
